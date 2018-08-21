@@ -1,21 +1,18 @@
-# vuetify-full-project-pro
+# Vuejs Frontend reaching out to Laravel API backend
 
-> Vuetify project with Firebase by AcadeMind
+A project showing how to create a frontend using Vuejs. Basically this Single Page Application (SPA) reaches out to a Laravel API backend. For authentication we are using **JWT** to fetch tokens fro the backend. Feel free to customize the SPA and add some frontend validation.
 
-## Build Setup
-
-``` bash
-# install dependencies
+## install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+## serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+## build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## API backend
+* Laravel backend - [Download code here](https://github.com/Patwan/restful-api-backend-laravel)
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## License
+This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html). You can freely use it for commercial or non-commercial purposes.
